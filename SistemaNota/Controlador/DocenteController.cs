@@ -46,11 +46,11 @@ namespace SistemaNota.Controlador
             Docente docente = docentes.Find(c => c.Codigo == codigo);
             return docente;
         }
-        public Boolean Agregar(string nombre, string codigo)
+        public Boolean Agregar(string nombre, string codigo,string carrera)
         {
             try
             {
-                Docente docente = new Docente(nombre, codigo);
+                Docente docente = new Docente(nombre, codigo,carrera);
                 docentes.Add(docente);
                 return true;
 

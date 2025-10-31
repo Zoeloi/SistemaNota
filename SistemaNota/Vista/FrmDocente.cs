@@ -28,7 +28,7 @@ namespace SistemaNota.Vista
 
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
-            lista.Agregar(tbNombre.Text, tbCodigo.Text);
+            lista.Agregar(tbNombre.Text, tbCodigo.Text,tbCarrera.Text);
             Listar();
             tbNombre.Clear();
             tbCodigo.Clear();
