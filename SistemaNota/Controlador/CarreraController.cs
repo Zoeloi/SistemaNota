@@ -26,6 +26,7 @@ namespace SistemaNota.Controlador
             }
 
         }
+        // Crear
         /// <summary>
         /// Obtiene todas las carrera
         /// </summary>
@@ -34,6 +35,7 @@ namespace SistemaNota.Controlador
         {
             return carreras;
         }
+        /// Leer
         /// <summary>
         /// Buscar un elemento y retorna los registros encontrados 
         /// </summary>

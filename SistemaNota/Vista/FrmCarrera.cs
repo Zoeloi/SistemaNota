@@ -58,5 +58,6 @@ namespace SistemaNota.Vista
             dgvRegistros.Refresh();
         }
 
+        
     }
 }
