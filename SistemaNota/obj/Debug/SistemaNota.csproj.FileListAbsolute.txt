@@ -1,0 +1,12 @@
+C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\obj\Debug\SistemaNota.csproj.AssemblyReference.cache
+C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\obj\Debug\SistemaNota.Form1.resources
+C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\obj\Debug\SistemaNota.Properties.Resources.resources
+C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\obj\Debug\SistemaNota.Vista.FrmCarrera.resources
+C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\obj\Debug\SistemaNota.csproj.GenerateResource.cache
+C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\obj\Debug\SistemaNota.csproj.CoreCompileInputs.cache
+C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\bin\Debug\SistemaNota.exe.config
+C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\bin\Debug\SistemaNota.exe
+C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\bin\Debug\SistemaNota.pdb
+C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\obj\Debug\SistemaNota.exe
+C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\obj\Debug\SistemaNota.pdb
+C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\obj\Debug\SistemaNota.exe.config

@@ -1,0 +1,72 @@
+﻿
+using SistemaNota.Modelos;
+using System;
+using System.Collections.Generic;
+
+namespace SistemaNota.Controlador
+{
+    //Crear ,Leer ,Actualizar,Eliminar 
+    //Crud
+    public class CarreraController
+    {
+        private List<Carrera> carreras = new List<Carrera>();
+
+        public Boolean Agregar(string nombre, string codigo)
+        {
+            try
+            {
+                Carrera carrera = new Carrera(nombre, codigo);
+                carreras.Add(carrera);
+                return true;
+
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+
+        }
+        /// <summary>
+        /// Obtiene todas las carrera
+        /// </summary>
+        /// <returns></returns>
+        public List<Carrera> GetCarreras()
+        {
+            return carreras;
+        }
+        /// <summary>
+        /// Buscar un elemento y retorna los registros encontrados 
+        /// </summary>
+        /// <param name="dato"></param>
+        /// <returns></returns>
+        public List<Carrera> GetCarreras(string dato)
+
+        {
+            
+          return carreras.FindAll(c => c.Nombre.Contains(dato));
+
+        }
+
+
+        public  Carrera GetCarrera (string nombre,string codigo)
+        {
+            Carrera carrera = carreras.Find(c => c.Codigo == codigo);
+            return carrera;
+        }
+
+
+        public Boolean Eliminar(string nombre ,string codigo )
+        {
+                Carrera carrera = GetCarrera(nombre,codigo);
+                if (carrera == null)
+                {
+                    return false;
+                }
+                carreras.Remove(carrera);
+                return true;
+
+        }
+
+      
+    }
+}
