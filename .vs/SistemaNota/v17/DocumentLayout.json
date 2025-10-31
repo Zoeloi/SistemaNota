@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|c:\\users\\eddy jr\\documents\\clases\\programacion estructurada\\sistemanota\\sistemanota\\controlador\\carreracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\controlador\\carreracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|c:\\users\\eddy jr\\documents\\clases\\programacion estructurada\\sistemanota\\sistemanota\\vista\\frmdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\vista\\frmdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|c:\\users\\eddy jr\\documents\\clases\\programacion estructurada\\sistemanota\\sistemanota\\controlador\\docentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\controlador\\docentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\sistemanota\\vista\\frmcarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\vista\\frmcarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\sistemanota\\vista\\frmdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\vista\\frmdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarreraController.cs",
-              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Controlador\\CarreraController.cs",
-              "RelativeDocumentMoniker": "SistemaNota\\Controlador\\CarreraController.cs",
-              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Controlador\\CarreraController.cs",
-              "RelativeToolTip": "SistemaNota\\Controlador\\CarreraController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FrmDocente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Vista\\FrmDocente.cs",
+              "RelativeDocumentMoniker": "SistemaNota\\Vista\\FrmDocente.cs",
+              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Vista\\FrmDocente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaNota\\Vista\\FrmDocente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T16:28:53.594Z",
+              "WhenOpened": "2025-10-31T17:30:55.925Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDocente.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Vista\\FrmDocente.cs",
+              "RelativeDocumentMoniker": "SistemaNota\\Vista\\FrmDocente.cs",
+              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Vista\\FrmDocente.cs",
+              "RelativeToolTip": "SistemaNota\\Vista\\FrmDocente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:28:27.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DocenteController.cs",
-              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Controlador\\DocenteController.cs",
-              "RelativeDocumentMoniker": "SistemaNota\\Controlador\\DocenteController.cs",
-              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Controlador\\DocenteController.cs",
-              "RelativeToolTip": "SistemaNota\\Controlador\\DocenteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Title": "FrmCarrera.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Vista\\FrmCarrera.cs",
+              "RelativeDocumentMoniker": "SistemaNota\\Vista\\FrmCarrera.cs",
+              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Vista\\FrmCarrera.cs",
+              "RelativeToolTip": "SistemaNota\\Vista\\FrmCarrera.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T16:28:46.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T17:25:37.526Z"
             }
           ]
         }

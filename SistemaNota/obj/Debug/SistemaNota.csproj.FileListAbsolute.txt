@@ -10,3 +10,4 @@ C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaN
 C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\obj\Debug\SistemaNota.exe
 C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\obj\Debug\SistemaNota.pdb
 C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\obj\Debug\SistemaNota.exe.config
+C:\Users\Eddy Jr\Documents\Clases\Programacion Estructurada\SistemaNota\SistemaNota\obj\Debug\SistemaNota.Vista.FrmDocente.resources

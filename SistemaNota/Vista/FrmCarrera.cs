@@ -22,7 +22,7 @@ namespace SistemaNota.Vista
         private void Listar()
         {
             dgvRegistros.DataSource = null;
-            dgvRegistros.DataSource = lista.GetCarreras();
+            dgvRegistros.DataSource = lista.GetCarrera();
             dgvRegistros.Refresh();
         }
 
@@ -34,7 +34,17 @@ namespace SistemaNota.Vista
             tbCodigo.Clear();
             tbNombre.Focus();
         }
-
+        private void toolStripButton2_Click(object sender, EventArgs e)
+        {
+            lista.Eliminar(tbNombre.Text, tbCodigo.Text);
+            Listar();
+        }
+        private void btnBuscar_Click(object sender, EventArgs e)
+        {
+            dgvRegistros.DataSource = null;
+            dgvRegistros.DataSource = lista.GetCarrera(tbDato.Text);
+            dgvRegistros.Refresh();
+        }
         private void dgvRegistros_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex >= 0)
@@ -45,18 +55,9 @@ namespace SistemaNota.Vista
             }
         }
 
-        private void toolStripButton2_Click(object sender, EventArgs e)
-        {
-            lista.Eliminar(tbNombre.Text,tbCodigo.Text);
-            Listar();
-        }
+      
 
-        private void btnBuscar_Click(object sender, EventArgs e)
-        {
-            dgvRegistros.DataSource= null;
-            dgvRegistros.DataSource = lista.GetCarreras(tbDato.Text);
-            dgvRegistros.Refresh();
-        }
+        
 
         
     }

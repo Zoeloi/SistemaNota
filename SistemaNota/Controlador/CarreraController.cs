@@ -11,6 +11,43 @@ namespace SistemaNota.Controlador
     {
         private List<Carrera> carreras = new List<Carrera>();
 
+        // Crear
+        /// <summary>
+        /// Obtiene todas las carrera
+        /// </summary>
+        /// <returns></returns>
+        public List<Carrera> GetCarrera()
+        {
+            return carreras;
+        }
+        /// Leer
+        /// <summary>
+        /// Buscar un elemento y retorna los registros encontrados 
+        /// </summary>
+        /// <param name="dato"></param>
+        /// <returns></returns>
+        public List<Carrera> GetCarrera(string dato)
+
+        {
+            
+          return carreras.FindAll(c => c.Nombre.Contains(dato));
+
+        }
+        /// <summary>
+        /// Buscar para eliminar
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="codigo"></param>
+        /// <returns></returns>
+
+        public  Carrera GetCarrera (string nombre,string codigo)
+        {
+            Carrera carrera = carreras.Find(c => c.Codigo == codigo);
+            return carrera;
+        }
+
+
+        
         public Boolean Agregar(string nombre, string codigo)
         {
             try
@@ -26,49 +63,18 @@ namespace SistemaNota.Controlador
             }
 
         }
-        // Crear
-        /// <summary>
-        /// Obtiene todas las carrera
-        /// </summary>
-        /// <returns></returns>
-        public List<Carrera> GetCarreras()
+        public Boolean Eliminar(string nombre, string codigo)
         {
-            return carreras;
-        }
-        /// Leer
-        /// <summary>
-        /// Buscar un elemento y retorna los registros encontrados 
-        /// </summary>
-        /// <param name="dato"></param>
-        /// <returns></returns>
-        public List<Carrera> GetCarreras(string dato)
-
-        {
-            
-          return carreras.FindAll(c => c.Nombre.Contains(dato));
+            Carrera carrera = GetCarrera(nombre, codigo);
+            if (carrera == null)
+            {
+                return false;
+            }
+            carreras.Remove(carrera);
+            return true;
 
         }
 
 
-        public  Carrera GetCarrera (string nombre,string codigo)
-        {
-            Carrera carrera = carreras.Find(c => c.Codigo == codigo);
-            return carrera;
-        }
-
-
-        public Boolean Eliminar(string nombre ,string codigo )
-        {
-                Carrera carrera = GetCarrera(nombre,codigo);
-                if (carrera == null)
-                {
-                    return false;
-                }
-                carreras.Remove(carrera);
-                return true;
-
-        }
-
-      
     }
 }

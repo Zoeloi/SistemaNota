@@ -22,5 +22,10 @@ namespace SistemaNota
         {
             new FrmCarrera().Show();
         }
+
+        private void docentesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new FrmDocente().Show();
+        }
     }
 }
