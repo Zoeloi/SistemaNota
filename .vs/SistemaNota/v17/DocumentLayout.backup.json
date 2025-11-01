@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|c:\\users\\eddy jr\\documents\\clases\\programacion estructurada\\sistemanota\\sistemanota\\controlador\\docentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\controlador\\docentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|c:\\users\\eddy jr\\documents\\clases\\programacion estructurada\\sistemanota\\sistemanota\\vista\\frmcarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\vista\\frmcarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|c:\\users\\eddy jr\\documents\\clases\\programacion estructurada\\sistemanota\\sistemanota\\vista\\frmdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\sistemanota\\vista\\frmdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\vista\\frmdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|c:\\users\\eddy jr\\documents\\clases\\programacion estructurada\\sistemanota\\sistemanota\\modelos\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\modelos\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\sistemanota\\vista\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\vista\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\sistemanota\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|c:\\users\\eddy jr\\documents\\clases\\programacion estructurada\\sistemanota\\sistemanota\\controlador\\docentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\controlador\\docentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|c:\\users\\eddy jr\\documents\\clases\\programacion estructurada\\sistemanota\\sistemanota\\controlador\\carreracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\controlador\\carreracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|c:\\users\\eddy jr\\documents\\clases\\programacion estructurada\\sistemanota\\sistemanota\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|c:\\users\\eddy jr\\documents\\clases\\programacion estructurada\\sistemanota\\sistemanota\\modelos\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\modelos\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|c:\\users\\eddy jr\\documents\\clases\\programacion estructurada\\sistemanota\\sistemanota\\vista\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\vista\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|c:\\users\\eddy jr\\documents\\clases\\programacion estructurada\\sistemanota\\sistemanota\\modelos\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DA075D-E776-4D2C-9C8B-2ACE5E5CEFF7}|SistemaNota\\SistemaNota.csproj|solutionrelative:sistemanota\\modelos\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,40 +47,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FrmCarrera.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Vista\\FrmCarrera.cs",
+              "RelativeDocumentMoniker": "SistemaNota\\Vista\\FrmCarrera.cs",
+              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Vista\\FrmCarrera.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaNota\\Vista\\FrmCarrera.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T14:25:13.565Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DocenteController.cs",
               "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Controlador\\DocenteController.cs",
               "RelativeDocumentMoniker": "SistemaNota\\Controlador\\DocenteController.cs",
               "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Controlador\\DocenteController.cs",
               "RelativeToolTip": "SistemaNota\\Controlador\\DocenteController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:54:15.167Z",
+              "WhenOpened": "2025-11-01T14:24:48.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CarreraController.cs",
               "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Controlador\\CarreraController.cs",
               "RelativeDocumentMoniker": "SistemaNota\\Controlador\\CarreraController.cs",
               "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Controlador\\CarreraController.cs",
               "RelativeToolTip": "SistemaNota\\Controlador\\CarreraController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwDYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:53:44.524Z",
+              "WhenOpened": "2025-11-01T14:24:48.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Docente.cs",
-              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Modelos\\Docente.cs",
-              "RelativeDocumentMoniker": "SistemaNota\\Modelos\\Docente.cs",
-              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Modelos\\Docente.cs",
-              "RelativeToolTip": "SistemaNota\\Modelos\\Docente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Modelos\\Carrera.cs",
+              "RelativeDocumentMoniker": "SistemaNota\\Modelos\\Carrera.cs",
+              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Modelos\\Carrera.cs",
+              "RelativeToolTip": "SistemaNota\\Modelos\\Carrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:53:17.059Z",
+              "WhenOpened": "2025-11-01T14:24:46.307Z",
               "EditorCaption": ""
             },
             {
@@ -89,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "FrmEstudiante.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Vista\\FrmEstudiante.cs",
               "RelativeDocumentMoniker": "SistemaNota\\Vista\\FrmEstudiante.cs",
@@ -101,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Form1.cs",
               "RelativeDocumentMoniker": "SistemaNota\\Form1.cs",
@@ -110,6 +130,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T17:51:11.367Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Modelos\\Docente.cs",
+              "RelativeDocumentMoniker": "SistemaNota\\Modelos\\Docente.cs",
+              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\Clases\\Programacion Estructurada\\SistemaNota\\SistemaNota\\Modelos\\Docente.cs",
+              "RelativeToolTip": "SistemaNota\\Modelos\\Docente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T14:24:47.144Z",
+              "EditorCaption": ""
             }
           ]
         }

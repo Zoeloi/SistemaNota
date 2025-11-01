@@ -36,14 +36,14 @@
             this.tbDato = new System.Windows.Forms.ToolStripTextBox();
             this.btnBuscar = new System.Windows.Forms.ToolStripButton();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.tbCarrera = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
             this.tbCodigo = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.tbNombre = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.dgvRegistros = new System.Windows.Forms.DataGridView();
-            this.label3 = new System.Windows.Forms.Label();
-            this.tbCarrera = new System.Windows.Forms.TextBox();
             this.toolStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -124,16 +124,32 @@
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Location = new System.Drawing.Point(43, 52);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(303, 176);
+            this.groupBox1.Size = new System.Drawing.Size(357, 140);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Datos del Docente ";
+            // 
+            // tbCarrera
+            // 
+            this.tbCarrera.Location = new System.Drawing.Point(139, 99);
+            this.tbCarrera.Name = "tbCarrera";
+            this.tbCarrera.Size = new System.Drawing.Size(202, 22);
+            this.tbCarrera.TabIndex = 5;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(7, 99);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(126, 16);
+            this.label3.TabIndex = 4;
+            this.label3.Text = "Carrera que Imparte";
             // 
             // tbCodigo
             // 
             this.tbCodigo.Location = new System.Drawing.Point(76, 59);
             this.tbCodigo.Name = "tbCodigo";
-            this.tbCodigo.Size = new System.Drawing.Size(100, 22);
+            this.tbCodigo.Size = new System.Drawing.Size(191, 22);
             this.tbCodigo.TabIndex = 3;
             // 
             // label2
@@ -164,9 +180,9 @@
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.dgvRegistros);
-            this.groupBox2.Location = new System.Drawing.Point(12, 255);
+            this.groupBox2.Location = new System.Drawing.Point(12, 216);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(429, 264);
+            this.groupBox2.Size = new System.Drawing.Size(538, 310);
             this.groupBox2.TabIndex = 2;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Docentes Guardados:";
@@ -182,25 +198,9 @@
             this.dgvRegistros.ReadOnly = true;
             this.dgvRegistros.RowHeadersWidth = 51;
             this.dgvRegistros.RowTemplate.Height = 24;
-            this.dgvRegistros.Size = new System.Drawing.Size(423, 243);
+            this.dgvRegistros.Size = new System.Drawing.Size(532, 289);
             this.dgvRegistros.TabIndex = 0;
             this.dgvRegistros.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvRegistros_CellDoubleClick);
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(7, 99);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(52, 16);
-            this.label3.TabIndex = 4;
-            this.label3.Text = "Carrera";
-            // 
-            // tbCarrera
-            // 
-            this.tbCarrera.Location = new System.Drawing.Point(65, 99);
-            this.tbCarrera.Name = "tbCarrera";
-            this.tbCarrera.Size = new System.Drawing.Size(202, 22);
-            this.tbCarrera.TabIndex = 5;
             // 
             // FrmDocente
             // 
